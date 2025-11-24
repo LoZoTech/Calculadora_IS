@@ -33,7 +33,7 @@ tDatos lectura() {
 
 // Muestra la solución con el formato ":resultado" [cite: 21, 57]
 void mostrarSolucion(double sol) {
-    cout << ":" << sol << endl;
+    cout << "    :" << sol << endl;
 }
 
 // Muestra mensaje de error [cite: 22]
