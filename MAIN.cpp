@@ -1,4 +1,4 @@
-#include "Inout.h"
+#include "INOUT.h"
 #include "Operations.h"
 using namespace std;
 
