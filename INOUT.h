@@ -2,11 +2,13 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
+
 typedef struct tDatos {
-double num1;
-double num2;
- std::string operador;
+    double num1;
+    double num2;
+    std::string operador;
 };
+
 tDatos lectura();
 void mostrarSolucion(double sol);
 void mostrarError(std::string error);
